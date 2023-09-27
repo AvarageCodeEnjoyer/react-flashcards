@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "The capital of France is Paris."
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "answer": "There are seven continents on Earth."
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "answer": "William Shakespeare wrote the play 'Romeo and Juliet.'"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "The chemical symbol for gold is 'Au.'"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "The largest planet in our solar system is Jupiter."
+  },
+  {
+    "question": "Who painted the 'Mona Lisa'?",
+    "answer": "Leonardo da Vinci painted the 'Mona Lisa.'"
+  }
+]
